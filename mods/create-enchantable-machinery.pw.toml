@@ -1,0 +1,13 @@
+name = "Create: Enchantable Machinery"
+filename = "createenchantablemachinery-2.8.8-mc1.20.1-forge.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/eqrvp4NK/versions/vFnHvfLE/createenchantablemachinery-2.8.8-mc1.20.1-forge.jar"
+hash-format = "sha512"
+hash = "8f6ebf2afc0ca3bb9136a1f4cb2318c6201101819ff28e8e89412a124c0d8bc2deaf88bb5fe0d449702481844b290a0094164c2c5efcda6ee1a9ca1db3950154"
+
+[update]
+[update.modrinth]
+mod-id = "eqrvp4NK"
+version = "vFnHvfLE"

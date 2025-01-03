@@ -1,0 +1,13 @@
+name = "Fantasy Weapons x Better Combat"
+filename = "fantasy weapons x better combat.zip"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/vwohGzJU/versions/X08NuQiR/fantasy%20weapons%20x%20better%20combat.zip"
+hash-format = "sha512"
+hash = "00949f5c16a3139a137d62078793752bcb407cda4742d6c224ca136055e968f8a45dab23e69f7010e3c4cd23fc96fa3f846dad9b8a0cc2eac11c7ee9e87a33ce"
+
+[update]
+[update.modrinth]
+mod-id = "vwohGzJU"
+version = "X08NuQiR"

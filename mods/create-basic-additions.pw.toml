@@ -1,0 +1,13 @@
+name = "Create: Basic Additions"
+filename = "create_basic_additions-1.20.1-1.0.2-forge.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/G2hjjjFv/versions/CHhNRqoa/create_basic_additions-1.20.1-1.0.2-forge.jar"
+hash-format = "sha512"
+hash = "a75739ad24febf780a02835d7636ece1a380d74209a1b99206e8a1fbcd39498c2732e62a51890410fb1a28c9943b1411d6a208d6f06210f3cf903ddc68d33400"
+
+[update]
+[update.modrinth]
+mod-id = "G2hjjjFv"
+version = "CHhNRqoa"

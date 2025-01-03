@@ -1,0 +1,16 @@
+name = "Thaumiel25"
+author = "tokebe"
+version = "1.0.0"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "e6b1aab4a6198494d54290ed773a20573d111bba9dd5bafb4c8c1e838d09bc02"
+
+[versions]
+forge = "47.3.22"
+minecraft = "1.20.1"
+
+[options]
+datapack-folder = "config/openloader/data"

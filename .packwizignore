@@ -1,0 +1,21 @@
+# Exclude README and such
+README.md
+LICENSE
+
+# Exlcude git stuff
+.git/**
+.gitattributes
+.gitignore
+
+# Exclude datapack directory
+datapacks/**
+
+# Exclude server files
+t24-data/**
+t24-backups/**
+docker-compose.yml
+whitelist.json
+vt-resoursepacks.json
+ops.json
+.env
+prepare

@@ -1,0 +1,13 @@
+name = "Ribbits"
+filename = "Ribbits-1.20.1-Forge-3.0.2.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/8YcE8y4T/versions/FEcTRv8b/Ribbits-1.20.1-Forge-3.0.2.jar"
+hash-format = "sha512"
+hash = "0b7494d43597caf55be855b8c56f19bf39c5056729cdacaf2e775b44e52f46264278cb5859642f214a41913a7def422184fcc96543be51405e6d473aa3780961"
+
+[update]
+[update.modrinth]
+mod-id = "8YcE8y4T"
+version = "FEcTRv8b"

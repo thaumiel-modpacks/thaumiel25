@@ -1,0 +1,13 @@
+name = "Fantasy Armor (Medieval Series)"
+filename = "fantasy_armor-forge-0.6-1.20.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/oVmpjYQ5/versions/gaV8ld18/fantasy_armor-forge-0.6-1.20.1.jar"
+hash-format = "sha512"
+hash = "186b3672c52dff81d6fc052987e41d7ffa94f74d7d9ab7a93083c1f03bf3adf4cca42a2c492f9b0b3a2ba6dec834bd387c85810f48f2504d5a93c31f0c0cd0a2"
+
+[update]
+[update.modrinth]
+mod-id = "oVmpjYQ5"
+version = "gaV8ld18"

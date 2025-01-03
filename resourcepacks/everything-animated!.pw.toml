@@ -1,0 +1,13 @@
+name = "Everything Animated!"
+filename = "Everything Animated! 0.3.5.zip"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/tDteH8gZ/versions/hsIcZSwh/Everything%20Animated%21%200.3.5.zip"
+hash-format = "sha512"
+hash = "fb7fae50bc5c1f65ec9280080ae5ea4760efbda29fd845c90d86ecdb610d6ebb238287cb7f38f4715c5ccb5ba0114b9555839833c67c2853cb8733b4e223c73f"
+
+[update]
+[update.modrinth]
+mod-id = "tDteH8gZ"
+version = "hsIcZSwh"

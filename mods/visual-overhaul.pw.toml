@@ -1,0 +1,13 @@
+name = "Visual Overhaul"
+filename = "visualoverhaul-forge-5.0.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/YQnwl5Vv/versions/ebyijdsw/visualoverhaul-forge-5.0.1.jar"
+hash-format = "sha512"
+hash = "535175b62ebc680b0cbc6ab6447f88c4071c02c61affa6ffb5344972a928f69d83ee816f1220be9a76de78a2be4e5962f2cdb8cb8caef4164172b3f72dbe4806"
+
+[update]
+[update.modrinth]
+mod-id = "YQnwl5Vv"
+version = "ebyijdsw"

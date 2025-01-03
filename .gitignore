@@ -1,0 +1,9 @@
+# Exclude exported CurseForge zip files
+*.zip
+
+# Exclude exported Modrinth modpacks
+*.mrpack
+
+# Exclude server files
+t24-data/**
+t24-backups/**

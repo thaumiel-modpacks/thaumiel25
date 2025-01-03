@@ -1,0 +1,13 @@
+name = "Blood Magic Delight"
+filename = "bloodmagicdelight-1.0.2-1.20.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/OGYPsQ6F/versions/4TLXBs4y/bloodmagicdelight-1.0.2-1.20.1.jar"
+hash-format = "sha512"
+hash = "73c43bad1265a081189d684fb83e7bb288787b44b2d841ee623929cf4a84e3991233a38287141443ce218f9f9f3dc0eb61aef4027ef48ec73a9ce4d717e815b4"
+
+[update]
+[update.modrinth]
+mod-id = "OGYPsQ6F"
+version = "4TLXBs4y"

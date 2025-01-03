@@ -1,0 +1,2 @@
+#!/usr/bin/env bash
+zip -r datapacks/vanillarefresh-v1.4.19g_1.20.x-customized.zip datapacks/vanillarefresh-v1.4.19g_1.20.x-customized
