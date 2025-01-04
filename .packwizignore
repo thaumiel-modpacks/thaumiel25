@@ -1,6 +1,7 @@
 # Exclude README and such
 README.md
 LICENSE
+mods.md
 
 # Exlcude git stuff
 .git/**
