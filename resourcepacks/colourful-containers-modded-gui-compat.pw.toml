@@ -1,0 +1,13 @@
+name = "Colourful Containers: Modded GUI Compat"
+filename = "colourful containers - modded.zip"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/eJB0aDIf/versions/tHluCvbz/colourful%20containers%20-%20modded.zip"
+hash-format = "sha512"
+hash = "414b4637fa2d3508cfac644d357fc1ab4431019f0be91cbcfbf8b9f50c8c023948ce306fe540b3363166567bb533ce158f16982ec57b249611790d296d06eda0"
+
+[update]
+[update.modrinth]
+mod-id = "eJB0aDIf"
+version = "tHluCvbz"

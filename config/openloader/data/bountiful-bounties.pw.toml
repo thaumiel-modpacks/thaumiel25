@@ -1,0 +1,13 @@
+name = "Bountiful Bounties"
+filename = "BountifulBounties 1.1.0.zip"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/6I4exdiU/versions/7w4SIyDS/BountifulBounties%201.1.0.zip"
+hash-format = "sha512"
+hash = "37578c6a09668a9b8a9684522f9ce203cf114bffa1aedc04f54fdf9cc5db70ddd26b15927dae64202fc0562ef2ec4d6ef68187110daea4d2a9087acd2f8d17d9"
+
+[update]
+[update.modrinth]
+mod-id = "6I4exdiU"
+version = "7w4SIyDS"
