@@ -1,6 +1,6 @@
 name = "Nether Portal Spread"
 filename = "netherportalspread-1.20.1-8.3.jar"
-side = "server"
+side = "both"
 
 [download]
 url = "https://cdn.modrinth.com/data/z7UX4SHt/versions/OiSu3g6G/netherportalspread-1.20.1-8.3.jar"
