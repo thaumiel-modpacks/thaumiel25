@@ -2,6 +2,7 @@
 README.md
 LICENSE
 mods.md
+todo.md
 
 # Exlcude git stuff
 .git/**

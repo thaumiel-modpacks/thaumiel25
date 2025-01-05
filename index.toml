@@ -1704,7 +1704,3 @@ metafile = true
 file = "resourcepacks/tras-fresh-player.pw.toml"
 hash = "9fc6b88c15bedff90e20a837b4c834bbe9094bcfbdf23f908faaffbd19fb7d69"
 metafile = true
-
-[[files]]
-file = "todo.md"
-hash = "e6009fd77fbcaeafd1cbbc535748cdc25f47f8a25faa6f617746b59e9e7319ec"
