@@ -1,6 +1,6 @@
 name = "When Dungeons Arise: Seven Seas"
 filename = "DungeonsAriseSevenSeas-1.19.2-1.0.2-forge.jar"
-side = "server"
+side = "both"
 
 [download]
 url = "https://cdn.modrinth.com/data/ZsrrjDbP/versions/AxIOkvEv/DungeonsAriseSevenSeas-1.19.2-1.0.2-forge.jar"

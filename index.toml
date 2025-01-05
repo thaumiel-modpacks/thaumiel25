@@ -16,10 +16,6 @@ hash = "19c9afa7f579ce0a6087dd816f0baea4be442afd0a71416f93c6e19dcc465777"
 metafile = true
 
 [[files]]
-file = "mods.md"
-hash = "db856a2078e43dbb3ee81bfd6ed98ad0084bc7af1a50eb01a21e5cfeb2355e2c"
-
-[[files]]
 file = "mods/3dskinlayers.pw.toml"
 hash = "e648a83707d4ddfedd27a6459c32853e4565f19eaa388246484857c053444930"
 metafile = true
@@ -71,7 +67,7 @@ metafile = true
 
 [[files]]
 file = "mods/aether-villages.pw.toml"
-hash = "77d4ac40cfbd2ecf882b97c6ac16e38288c073c1915d3efd2d1ec0387e1b2ba2"
+hash = "29937015a09e96921ce7913ed0063d26fa378a949f720321e7fddc6074c9dd22"
 metafile = true
 
 [[files]]
@@ -101,7 +97,7 @@ metafile = true
 
 [[files]]
 file = "mods/almost-unified.pw.toml"
-hash = "a21507bc60d5503dd97d43cff689503f95d11ff462a1795cdbde7261bcb51fe5"
+hash = "3d8e430c9a57371e4167f0deef00fa000d545a5c644cf09f6e3b46b6d21e6834"
 metafile = true
 
 [[files]]
@@ -206,7 +202,7 @@ metafile = true
 
 [[files]]
 file = "mods/better-than-mending.pw.toml"
-hash = "9e8d2fef0fc065c4bb4ac5c805d53f1e21a7380a775abbabce946c7355200498"
+hash = "ec4479b3c028e0fd23f52b08d1f29296adcc279986598caa6f85b94d2e72c1c6"
 metafile = true
 
 [[files]]
@@ -340,11 +336,6 @@ hash = "d960f68e4c5e5f79eff91a277dc22d7acb49f04080fcf0fe1648b5a9a83e3d4f"
 metafile = true
 
 [[files]]
-file = "mods/chococraft.pw.toml"
-hash = "8fb4c947347ae2c87a5b7459a27e1af9cf1883fa6e9e67a8e0bf139285186d97"
-metafile = true
-
-[[files]]
 file = "mods/chunkpregenerator.pw.toml"
 hash = "b00ef25575c34bcb493300d62abcbd5ee53859186c729b9fd2d0c5588e2dd849"
 metafile = true
@@ -376,7 +367,7 @@ metafile = true
 
 [[files]]
 file = "mods/cold-sweat.pw.toml"
-hash = "087dc23d27a349bdba7e4bbde191485859275057445e14648d6b8b8c16048bee"
+hash = "1b482f5201e8f6a791154179a258a077c1c0f8fef83626c02a0307b58f35dcb1"
 metafile = true
 
 [[files]]
@@ -601,7 +592,7 @@ metafile = true
 
 [[files]]
 file = "mods/cristel-lib.pw.toml"
-hash = "5cf8a06431f16a18dc468baae3fbdf17cc1d72b9697da58cb126342ed937aa59"
+hash = "88325807c01b522a76d686f39c442da99b73a90ae3ec9b5434fea5f79baa4d49"
 metafile = true
 
 [[files]]
@@ -812,6 +803,11 @@ metafile = true
 [[files]]
 file = "mods/hopo-better-ruined-portals.pw.toml"
 hash = "9b3fa80ba5bc58bc63fe78aca7d33576b21e4c47b972e583186a0eeeadecb3d2"
+metafile = true
+
+[[files]]
+file = "mods/hopo-better-underwater-ruins.pw.toml"
+hash = "43c6e0dfce9e2a1584537a1a9c8a5716b34cfecbe8fb92c8fdc12ccfb9b24bb2"
 metafile = true
 
 [[files]]
@@ -1031,7 +1027,7 @@ metafile = true
 
 [[files]]
 file = "mods/moogs-voyager-structures.pw.toml"
-hash = "07c8a5f7d302ad39965ba633465cf9d4f470a575263306e61e4caebeac3417a0"
+hash = "5c96d8d0c9b686291397326179f04ca3f7ba41d5ef912984ad5bdf3ae66b42f2"
 metafile = true
 
 [[files]]
@@ -1072,6 +1068,11 @@ metafile = true
 [[files]]
 file = "mods/necronomicon.pw.toml"
 hash = "1802dcd780c6deb02fb0d9251474f221077c7c80b8d673585ab59a93f4fe2abb"
+metafile = true
+
+[[files]]
+file = "mods/nether-portal-spread.pw.toml"
+hash = "f1a4390af2c14927fc2d31366bd18a210718d1bcfe4d1e038280c56d6ada3c29"
 metafile = true
 
 [[files]]
@@ -1157,6 +1158,16 @@ metafile = true
 [[files]]
 file = "mods/owo-lib.pw.toml"
 hash = "df4c4fe3aff1792aa7d19d097d5d1bc0c6e958e6e4ee32dbf148ecac62e1274d"
+metafile = true
+
+[[files]]
+file = "mods/pandalib.pw.toml"
+hash = "cbb2a797ec4464bcc3fccde8db1df15ee7e833692d51e7c4fc82a48948f23c43"
+metafile = true
+
+[[files]]
+file = "mods/pandas-falling-trees.pw.toml"
+hash = "a8ffe158d80722dd04253e142e40ea75f609ad0c8bb2171c2c984fcbe137a759"
 metafile = true
 
 [[files]]
@@ -1321,7 +1332,7 @@ metafile = true
 
 [[files]]
 file = "mods/smarter-farmers-farmers-replant.pw.toml"
-hash = "a6159b0deb77133a0050a7029da62f43f8ba0f3ccf0fc1438f8b1f30b3c625d0"
+hash = "ccfd6470814cb143ab00c4e4ae5978980d594e8d3d89f21cf660a8242e76c24e"
 metafile = true
 
 [[files]]
@@ -1501,7 +1512,7 @@ metafile = true
 
 [[files]]
 file = "mods/towns-and-towers.pw.toml"
-hash = "72c0e1d4d8eb05e6c82c8959885ee5f08b8c7ede63b438e22a7422246679cc46"
+hash = "7b7108d879e1e1c141b24d0d8fa268a6bbcd5c227875d156fcc62c3beec55f63"
 metafile = true
 
 [[files]]
@@ -1541,12 +1552,12 @@ metafile = true
 
 [[files]]
 file = "mods/when-dungeons-arise-seven-seas.pw.toml"
-hash = "02b97cecc535aefd6086c1d389b33181a87a4be4c628db64f316980ae2944010"
+hash = "e1bec15f8a15bd6bed347f3c48aa74d0114bdc98a6bc37a501b85e5f2656c613"
 metafile = true
 
 [[files]]
 file = "mods/when-dungeons-arise.pw.toml"
-hash = "e1a4ba8492831192c38c8048b9a3ae872b6b7cb6a6c3a204e68c02056ab81af9"
+hash = "a70e61e407780957b50dc0c09e1ee711267f7c3fcecb3dc4c38b102f1797f184"
 metafile = true
 
 [[files]]
@@ -1591,37 +1602,37 @@ metafile = true
 
 [[files]]
 file = "mods/yungs-better-desert-temples.pw.toml"
-hash = "532f07775974b695733981b2548859d3bc76c743781a5da5035d40fd6e485ab0"
+hash = "7db9f54055379da4817571a66ab3e5c17ec03f55cafc8ef157e3fa585b20e1ee"
 metafile = true
 
 [[files]]
 file = "mods/yungs-better-dungeons.pw.toml"
-hash = "c35112cced2eec8e5782c5c4327ae31bce16cc1356c75e52000053e890e0f0c1"
+hash = "3b896ddf7389ad7d403b354cd94966c65f4989c9675ec245681b5c78d5208317"
 metafile = true
 
 [[files]]
 file = "mods/yungs-better-jungle-temples.pw.toml"
-hash = "8c8b596c0e8f7366e30ee6edbd591fba9ef16741c25a505e64de9a299cd72e80"
+hash = "ad5edce3b2c6d7eb7a260f4b712ef43583eec3a5e83638fd44f11e6d583e7366"
 metafile = true
 
 [[files]]
 file = "mods/yungs-better-mineshafts.pw.toml"
-hash = "41aa01e9d0507d3131eb5fd2f6d8f2b7c54237e30a94e2a3bf6f52915cb8a688"
+hash = "4ce517d9069d08501f48e928692dc2f4617980683a2c4521f22c1ec538f34dcc"
 metafile = true
 
 [[files]]
 file = "mods/yungs-better-nether-fortresses.pw.toml"
-hash = "05f825a655bc94af6ab592d13c396b60c818cfc65ff2528e206e7a40a180e210"
+hash = "3ca605850961bbfb53cd2737349acb6cff01e452cce9f32c2da6c0593d89eda7"
 metafile = true
 
 [[files]]
 file = "mods/yungs-better-ocean-monuments.pw.toml"
-hash = "60511ad5628ed8e45a552de171c3330bdcdbd5f86f7047e26b505b7a8c824a47"
+hash = "49e2bdc9e40c50894dff3013463f5236e7d40c8df3db6ece0a81c00f7c34de48"
 metafile = true
 
 [[files]]
 file = "mods/yungs-better-witch-huts.pw.toml"
-hash = "e25c97f72666319efdd79eafc22301376446912cbb8ac14339c428c98e3ce1b5"
+hash = "35e69603e8b8b3c999f2054d34949578088c40d0042e13678fd1f85d793add34"
 metafile = true
 
 [[files]]
@@ -1675,18 +1686,8 @@ hash = "ca4aec8a1eb73c9e0a11db4abb8d9fc2ffc3f5dbf4926888a6ea550f34e357a0"
 metafile = true
 
 [[files]]
-file = "resourcepacks/fancy-crops.pw.toml"
-hash = "cecf2aa394484d392a7b1b41fe89e3770c7b85981e2d6de6dae00694bace68d1"
-metafile = true
-
-[[files]]
 file = "resourcepacks/fresh-animations.pw.toml"
 hash = "a837a6ef76177cd45f425ed3a72fef3454c761fda77507d8f1943ddabf54e8df"
-metafile = true
-
-[[files]]
-file = "resourcepacks/just-expressions.pw.toml"
-hash = "520a3c71b39964051bda71d6d8bcb419114c392786dded9143b29ea9b47dd32f"
 metafile = true
 
 [[files]]
@@ -1705,10 +1706,5 @@ hash = "9fc6b88c15bedff90e20a837b4c834bbe9094bcfbdf23f908faaffbd19fb7d69"
 metafile = true
 
 [[files]]
-file = "resourcepacks/visual-travelers-title-biomes-addon.pw.toml"
-hash = "2063f38cb177f221b83e0ac8d5756ca6dc7533797db518b73ac7e19f9f90d63c"
-metafile = true
-
-[[files]]
 file = "todo.md"
-hash = "df4b4de05ef07ea7f7a0fcf0118ca3cb477d4e292cf644a56b68b4b7f863eda5"
+hash = "de033c3d0985be8f42821239fb84d4f8ea3af43c74c50c69deb7623306da3028"
