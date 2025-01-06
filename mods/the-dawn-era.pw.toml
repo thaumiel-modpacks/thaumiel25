@@ -1,0 +1,13 @@
+name = "The Dawn Era"
+filename = "thedawnera-1.20.1-0.58.91.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/XaPEV3Jl/versions/TOxSic1M/thedawnera-1.20.1-0.58.91.jar"
+hash-format = "sha512"
+hash = "527e55a9919ce79b1ef14f6b6ad680ac0e1531ec2ec1cad9739e926b3a92a54d4593ba9af4a6c528e3dc9643c6b5e06741e77dc3011d4bf537a4d5b6f81fe873"
+
+[update]
+[update.modrinth]
+mod-id = "XaPEV3Jl"
+version = "TOxSic1M"
