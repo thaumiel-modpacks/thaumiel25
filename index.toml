@@ -466,11 +466,6 @@ hash = "631f5731e5ac0bf51ae12e746a173ca34adea22ad30620c19f11030b46078aba"
 metafile = true
 
 [[files]]
-file = "mods/create-design-n-decor.pw.toml"
-hash = "bf6cec642b8541de032b7dcf4f169e6c200ff92c8b832dfb733161f7df6658cc"
-metafile = true
-
-[[files]]
 file = "mods/create-diesel-generators.pw.toml"
 hash = "e66368c5ad668587b094ef86ee48ee7d12fdc701c40da46fb1f1d31e400945a5"
 metafile = true
@@ -598,11 +593,6 @@ metafile = true
 [[files]]
 file = "mods/cristel-lib.pw.toml"
 hash = "88325807c01b522a76d686f39c442da99b73a90ae3ec9b5434fea5f79baa4d49"
-metafile = true
-
-[[files]]
-file = "mods/crying-portals.pw.toml"
-hash = "493735a79abdf1b2e1879c127ad6c86a6f8d5f0eb4e77998f92cb230feaf991f"
 metafile = true
 
 [[files]]
