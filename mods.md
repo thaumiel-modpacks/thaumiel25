@@ -4,6 +4,8 @@
 
 AmbientSounds
 Presence Footsteps
+Sound Physics Remastered
+Sounds
 
 ## Misc. Dependencies
 
@@ -67,6 +69,18 @@ Prism
 Puzzles Lib
 Resourceful Lib
 Revelationary
+Searchables
+Sinytra Connector
+Sophisticated Core
+Structure Gel API
+Sushi Bar
+Thermoo
+ToadLib
+Trinkets Compat Layer for Accessories
+YetAnotherConfigLib (YACL)
+YUNG's API
+Zeta
+Petrolpark's Library
 
 ## Misc. Immersion
 
@@ -80,6 +94,11 @@ Immersive Weathering
 Nether Portal Spread
 Nyf's Spiders
 Panda's Falling Tree's
+Serene Seasons
+Serene Seasons Fix
+Simple Voice Chat
+Spice of Life: Apple Pie Edition
+Starlight (Forge)
 
 ## Mob Additions
 
@@ -91,6 +110,7 @@ Clutter
 Decorative Blocks
 Handcrafted
 Night Lights
+Sooty Chimneys
 
 ## Progression/Gameplay
 
@@ -115,6 +135,12 @@ Paragliders
 ParCool! ~ Minecraft Parkour ~
 ParCool+ / Compatibility Addon
 Portable Hole
+Shield Overhaul
+Simply Swords
+Spectrum
+Tarot Cards
+The Dawn Era
+The Twilight Forest
 
 ### Aether
 
@@ -122,18 +148,19 @@ AeroBlender
 Aether Addon: Enhanced Extinguishing
 Aether Addon: Protect Your Moa
 Aether Villages
-Aether's Delight
 Aether: Lost Content Addon
-Aetheric Tetranomicon
 Deep Aether
+The Aether
+The Aether: Redux
+Twilight Aether
 
 ### Ars Nouveau
 
 Ars Additions
 Ars Creo
 Ars Nouveau
-Ars Nouveau Delight
 Ars Scalaes
+Tome of Blood: Rebirth
 
 ### Better Combat
 
@@ -192,16 +219,33 @@ Create: Power Loader
 Create: Protection Pixel
 Create: Steam 'n' Rails
 Create: Vibrant Vaults
+Petrol's Parts (Create add-on)
+Storage Drawers Create compat
 
 ### Farmer's Delight
 
 Farmer's Delight
 
+Aether's Delight
 Alex's Delight
+Ars Nouveau Delight
 Blood Magic Delight
 Chef's Delight
 End's Delight
 Nether's Delight
+Tetra's Delight
+The Dawn Era Delight
+Twilight's Flavor & Delight
+
+### Tetra
+
+Aetheric Tetranomicon
+Small Tetra Additions
+Tetra
+Tetra Extras
+tetracelium
+Tetratic Combat Expanded
+Withering Boon for Tetra
 
 ## QoL
 
@@ -222,6 +266,10 @@ No Chat Reports
 No More Night Vision Flashing!
 No Telemetry
 Reap Mod
+Scholar
+Seamless Loading Screen
+Smooth Boot (Reloaded)
+Sophisticated Backpacks
 
 ### Fixes/Performance
 
@@ -266,6 +314,11 @@ Obscure Tooltips
 Obscure Tooltips Fix
 Ping
 Raised
+Traveler's Titles
+Xaero's Minimap
+Xaero's World Map
+Yeetus Experimentus
+You Died
 
 ## Utilities
 
@@ -285,6 +338,13 @@ Items Displayed [NeoForge]
 No Hostiles Around Campfire
 Quark
 Ribbits
+Smarter Farmers (farmers replant)
+Soul Fire'd
+Spelunkery
+Storage Drawers
+Supplementaries
+Supplementaries Squared
+Sword Blocking Mechanics
 
 ## Visual Enhancement
 
@@ -303,12 +363,17 @@ Os' Colorful Leaves
 Particular ✨
 Pretty Rain
 Rainbows
+Subtle Effects
+Visuality: Reforged
+YDM's Weapon Master
 
 ### Animation
 
 Fresh Animations
 Fresh Moves
 Not Enough Animations
+Serious Player Animations
+What Are They Up To (Watut)
 
 ## Worldgen
 
@@ -325,6 +390,20 @@ Incendium
 Integrated Stronghold
 MVS - Moog's Voyager Structures
 Nullscape
+Tectonic
+TerraBlender (Forge)
+Terralith
+The Lost Castle
+Tidal Towns
+Towns and Towers
+YUNG's Better Desert Temples
+YUNG's Better Dungeons
+YUNG's Better Jungle Temples
+YUNG's Better Mineshafts
+YUNG's Better Nether Fortresses
+YUNG's Better Ocean Monuments
+YUNG's Better Witch Huts
+YUNG's Cave Biomes
 
 ## Deliberately Left Out
 
@@ -335,80 +414,6 @@ These mods have been left out due to incompatibilities or other reasons.
 - Exordium: Messes with other UI mods
 - Shrimple: Broken
 - Subtle Effects: Dependencies break things
+- When Dungeons Arise: Makes certain blocks available too easily
+- Crying Portals: Broken by other mods
 
-Scholar
-Seamless Loading Screen
-Searchables
-Serene Seasons
-Serene Seasons Fix
-Serious Player Animations
-Shield Overhaul
-Simple Voice Chat
-Simply Swords
-Sinytra Connector
-Small Tetra Additions
-Smarter Farmers (farmers replant)
-Smooth Boot (Reloaded)
-Sooty Chimneys
-Sophisticated Backpacks
-Sophisticated Core
-Soul Fire'd
-Sound Physics Remastered
-Sounds
-Spectrum
-Spelunkery
-Spice of Life: Apple Pie Edition
-Starlight (Forge)
-Storage Drawers
-Storage Drawers Create compat
-Structure Gel API
-Subtle Effects
-Supplementaries
-Supplementaries Squared
-Sushi Bar
-Sword Blocking Mechanics
-Tarot Cards
-Tectonic
-TerraBlender (Forge)
-Terralith
-Tetra
-Tetra Extras
-Tetra's Delight
-tetracelium
-Tetratic Combat Expanded
-The Aether
-The Aether: Redux
-The Dawn Era
-The Dawn Era Delight
-The Lost Castle
-The Twilight Forest
-Thermoo
-Tidal Towns
-ToadLib
-Tome of Blood: Rebirth
-Towns and Towers
-Traveler's Titles
-Trinkets Compat Layer for Accessories
-Twilight Aether
-Twilight's Flavor & Delight
-Visuality: Reforged
-What Are They Up To (Watut)
-When Dungeons Arise
-When Dungeons Arise: Seven Seas
-Withering Boon for Tetra
-Xaero's Minimap
-Xaero's World Map
-YDM's Weapon Master
-Yeetus Experimentus
-YetAnotherConfigLib (YACL)
-You Died
-YUNG's API
-YUNG's Better Desert Temples
-YUNG's Better Dungeons
-YUNG's Better Jungle Temples
-YUNG's Better Mineshafts
-YUNG's Better Nether Fortresses
-YUNG's Better Ocean Monuments
-YUNG's Better Witch Huts
-YUNG's Cave Biomes
-Zeta

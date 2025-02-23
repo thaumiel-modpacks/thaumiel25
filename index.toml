@@ -411,6 +411,11 @@ hash = "4063abe583282834b2f78e3b3e6b9ee4d231a680f74c020e405a4ef196f21ee4"
 metafile = true
 
 [[files]]
+file = "mods/coolrain.pw.toml"
+hash = "a0cc19c4111ecaf62fbc0df8ba33ebd4ba9aa2603b2a2e28ba8ec9cfacc392cd"
+metafile = true
+
+[[files]]
 file = "mods/copycats.pw.toml"
 hash = "b2f084d89589870c6b4a6987f4f579ab0e771c3afb1e442f9507be21cdc115a1"
 metafile = true
@@ -1191,6 +1196,16 @@ hash = "3cf8b0b943ef4e88b788d86284f634d7f3a252b642ac0c5b41c7ef2ff548238f"
 metafile = true
 
 [[files]]
+file = "mods/petrolpark.pw.toml"
+hash = "92b0421c5367bb6dc44435fa3808504e84e1c5a8ed3d919124b472b5f7f58f04"
+metafile = true
+
+[[files]]
+file = "mods/petrols-parts.pw.toml"
+hash = "7037d66fa06175db1cde18978d460da6c38a57074e30848363c69afbb2263320"
+metafile = true
+
+[[files]]
 file = "mods/ping.pw.toml"
 hash = "c8b92f4a88c0cf8307fb3c88b68e89a3c533ffbb1b36d091b551372bfd066b24"
 metafile = true
@@ -1386,6 +1401,11 @@ hash = "985d34e70842a5c8e0a8a4e35be894e5f5c6d0dcbe25f2a8f74a45616d32be33"
 metafile = true
 
 [[files]]
+file = "mods/stellarview.pw.toml"
+hash = "c591b8e9dc7a4925f6b61f30f871dc2c0294467b09de78069e0ac70ee611d75a"
+metafile = true
+
+[[files]]
 file = "mods/storage-drawers-create-compat.pw.toml"
 hash = "000b6ed7423aa323da45cdcd9db145f4f07acd8bc9cd9abc4e335f5651605af4"
 metafile = true
@@ -1556,23 +1576,13 @@ hash = "614d4145b4c8ce726c8f950dd15a86ccc847157d8fc22e92ae34c40dcc68ba13"
 metafile = true
 
 [[files]]
-file = "mods/when-dungeons-arise-seven-seas.pw.toml"
-hash = "e1bec15f8a15bd6bed347f3c48aa74d0114bdc98a6bc37a501b85e5f2656c613"
-metafile = true
-
-[[files]]
-file = "mods/when-dungeons-arise.pw.toml"
-hash = "a70e61e407780957b50dc0c09e1ee711267f7c3fcecb3dc4c38b102f1797f184"
-metafile = true
-
-[[files]]
 file = "mods/withering-boon-for-tetra.pw.toml"
 hash = "fe2d58910752752faef253ed1f6cdca250f2cc2dafebb1fa833132b01285edf1"
 metafile = true
 
 [[files]]
 file = "mods/xaeros-minimap.pw.toml"
-hash = "0b76a3e5fa9d76378324558101807108f3099cbb6c17f24586330aad8dc91f85"
+hash = "8a610e06ddb20cbdd1fb1227d01069b172159708bffc008b067d75e18cb5b91a"
 metafile = true
 
 [[files]]
