@@ -1,4 +1,18 @@
 # Mod List
+TODO:
+
+- Configure dinosaur mod to not spawn dinosaurs so often & add to modpack config
+- Start running through config folder and figuring out what config files need non-defaults
+- Add configs to modpack
+- Figure out texture/resource/shader pack setup for best style
+- Sane default keybinds
+- Add server utility mods
+- Configure server utility mods + add to pack
+- Configure server docker-compose
+
+Starting server
+- Select world seed
+- Pregen for 48hrs
 
 ## Audio Enhancement
 
